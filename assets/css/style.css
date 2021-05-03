@@ -1,0 +1,34 @@
+/* Target Li */
+
+li {
+    border-bottom: 1px solid rgb(154, 66, 177);
+    text-align: left;
+    padding-left: 10px;
+}
+
+
+/* target card titles  */
+
+.card-title {
+    font-size: 25px;
+}
+
+
+/* Target img  */
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+
+/* Target 5 day */
+
+.fiveDayColor {
+    padding: 20px;
+    background-color: #b356cf;
+    color: white;
+    float: left;
+    margin: 10px;
+    border: 1px solid rgb(117, 54, 219);
+}
